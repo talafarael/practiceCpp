@@ -20,7 +20,7 @@ std::cout<<sum2<<std::endl;
       std::cout<<whileDo<<std::endl;
     
       
-  }while(whileDo!=20);
+  }while(whileDo!=18);
   
 }
 int sum100(int i){
