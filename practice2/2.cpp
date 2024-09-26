@@ -3,6 +3,7 @@
 int main(){
     int Num[3];
     int max=10;
+   
    for(int i=0;i<=2;i++){
     std::cout<<"enter num"<<i<<":";
     std::cin>>Num[i];
